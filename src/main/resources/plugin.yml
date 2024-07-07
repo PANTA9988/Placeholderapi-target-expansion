@@ -1,0 +1,6 @@
+name: target
+version: 1.3
+main: com.panta.targetextension.MiExpansion
+api-version: 1.16
+depend: [PlaceholderAPI]
+softdepend: [LevelledMobs]
